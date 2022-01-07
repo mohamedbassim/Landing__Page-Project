@@ -1,9 +1,15 @@
 # Landing__Page-Project
-Multisection landing page 
+Multisection landing page
 
 ## Table of Contents
 
-- [Instructions](#instructions)
+- [Instructions](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=to%20be%20mentioned-,Instructions,-The%20starter%20project)
+- [project description](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=the%20Udacity%20Classroom.-,project%20description,-The%20project%20is)
+- [author](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=tablets%2Ccomputers%20etc..\)-,author,-The%20project%20was)
+- [usage](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=a%20good%20one-,usage,-you%20can%20use)
+- [the ability of modifacations](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=style%20if%20needed.-,the%20ability%20of%20modifacations,-you%20can%20modify)
+- [dependencies](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=that%20you%20want.-,dependencies,-there%20is%20no)
+- [Things to be mentioned](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=easy%20to%20use%20.-,Things%20i%20wanna%20mention,-here%20is%20that)
 
 ## Instructions
 
@@ -41,4 +47,3 @@ there is no bad dependencies can happen when using the project its totally good 
 ## Things i wanna mention
 
 here is that i learnt some implementation ideas from w3schools,Csstricks,youtube and ofc MDN so im grateful for those websites. Learned alot `:)`
-
