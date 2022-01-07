@@ -3,7 +3,7 @@ Multisection landing page
 
 ## Table of Contents
 
-- [Instructions](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=to%20be%20mentioned-,Instructions,-The%20starter%20project)
+- [Instructions](#instructions)
 - [project description](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=the%20Udacity%20Classroom.-,project%20description,-The%20project%20is)
 - [author](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=tablets%2Ccomputers%20etc..\)-,author,-The%20project%20was)
 - [usage](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=a%20good%20one-,usage,-you%20can%20use)
