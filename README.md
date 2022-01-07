@@ -4,7 +4,7 @@ Multisection landing page
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [project description](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=the%20Udacity%20Classroom.-,project%20description,-The%20project%20is)
+- [project description](#project)
 - [author](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=tablets%2Ccomputers%20etc..\)-,author,-The%20project%20was)
 - [usage](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=a%20good%20one-,usage,-you%20can%20use)
 - [the ability of modifacations](https://github.com/mohamedbassim/Landing__Page-Project/edit/main/landing-page/README.md#:~:text=style%20if%20needed.-,the%20ability%20of%20modifacations,-you%20can%20modify)
