@@ -30,24 +30,6 @@ const fragment = document.createDocumentFragment(); // creating document fragmen
  * Start Helper Functions
  * 
  */
-var prevScrollpos = window.pageYOffset; // hiding the navbar when scrolling down and showing it when scrolling up.
-
-window.addEventListener("scroll", function () { // adding an event listener (scroll)
-
-  var currentScrollPos = window.pageYOffset; // defining a var containing YOffset of the page 
-
-  if (prevScrollpos > currentScrollPos) { // adding a condition to display and not showing the navbar when scrolling down and up.
-
-    navbar.style.top = "0px";
-
-  } else {
-
-    navbar.style.top = "-50px";
-    
-  }
-})
-
-
 /**
  * End Helper Functions
  * Begin Main Functions
